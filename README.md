@@ -13,7 +13,6 @@ Materials:
 
 Basic instructions:
 - Open with Sketchup View or Sketchup Web (free at www.sketchup.com)
-- Build with cabinet grade 3/4" plywood (I used birch)
 - Desktop is 2 pieces -- glue them together on the face with Titebond 3 wood glue. Clamp all around
 - All other pieces cut as dimensioned
 - Sand or use a roundover bit on a router to soften all edges
