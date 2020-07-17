@@ -16,6 +16,7 @@ Basic instructions:
 - Build with cabinet grade 3/4" plywood (I used birch)
 - Desktop is 2 pieces -- glue them together on the face with Titebond 3 wood glue. Clamp all around
 - All other pieces cut as dimensioned
+- Sand or use a roundover bit on a router to soften all edges
 - Sand with 120 grit and then 220 grit
 - Finish with spar urethane, 3 coats on desktop and 2-3 on legs. Sand with 220 in between.
 
